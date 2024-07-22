@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thsnyder
-- 👀 I’m interested in Data Sciencce, Coffee, Marketing, Business
-- 🌱 I’m currently learning FlutterFlow and how to make Chrome extensions
-- 💫 Python, R, SQL
+- 👀 I’m interested in Data Science, Coffee, Marketing, Entrepreneurship
+- 🌱 I’m currently learning Javascript and making web directories
+- 💫 Python, Javascript, Tailwind, SQL
 
 <!---
 thsnyder/thsnyder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
