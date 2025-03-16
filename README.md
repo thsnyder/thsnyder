@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @thsnyder
+- I'm a marketing director who likes to get his hands dirty writing code
 - 👀 I’m interested in Data Science, Coffee, Marketing, Entrepreneurship
 - 🌱 I’m currently learning Javascript and making web tools
 - 💫 Python, Javascript, Tailwind, SQL
